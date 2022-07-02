@@ -1,6 +1,6 @@
 {
-  "name": "react-chrome-dino",
-  "version": "0.1.3",
+  "name": "react-dinosaur-runner",
+  "version": "0.2.0",
   "main": "build/index.js",
   "scripts": {
     "start": "node scripts/start.js",
@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "dependencies": {},
-  "homepage" : "https://github.com/0xbsec/react-chrome-dino",
+  "homepage" : "https://github.com/ToeiKanta/react-dinosaur-runner",
   "devDependencies": {
     "@babel/core": "7.6.0",
     "@svgr/webpack": "4.3.2",
